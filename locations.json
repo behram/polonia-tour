@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Galeria Dominikanska",
+        "address": "Wroclaw",
+        "coords": {
+            "latitude": 51.108543, 
+            "longitude": 17.040353
+        },
+        "image_url": "http://galeria-dominikanska.pl/files/gallery/fotob-52.jpg"
+    },
+    {
+        "name": "Galeria Dominikanska 2",
+        "address": "Wroclaw",
+        "coords": {
+            "latitude": 51.10854443, 
+            "longitude": 17.040135043
+        },
+        "image_url": "http://galeria-dominikanska.pl/files/gallery/fotob-52.jpg"
+    },
+    {
+        "name": "Galeria Dominikanska 3",
+        "address": "Wroclaw",
+        "coords": {
+            "latitude": 51.12108543, 
+            "longitude": 17.04076353
+        },
+        "image_url": "http://galeria-dominikanska.pl/files/gallery/fotob-52.jpg"
+    },
+    {
+        "name": "Galeria Dominikanska 4",
+        "address": "Wroclaw",
+        "coords": {
+            "latitude": 51.10238543, 
+            "longitude": 17.0460353
+        },
+        "image_url": "http://galeria-dominikanska.pl/files/gallery/fotob-52.jpg"
+    },
+    {
+        "name": "Galeria Dominikanska 5",
+        "address": "Wroclaw",
+        "coords": {
+            "latitude": 51.10863543, 
+            "longitude": 17.04340353
+        },
+        "image_url": "http://galeria-dominikanska.pl/files/gallery/fotob-52.jpg"
+    }
+]
